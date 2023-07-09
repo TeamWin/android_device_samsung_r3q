@@ -1,6 +1,6 @@
-# Android device tree for samsung SM-A908B (r3q)
+# Android device tree for Samsung Galaxy A90 5G (SM-A908B) (r3q)
 
-# Current State Checklist
+# Current State Checklist for
 
 # Blocking checks
 # - [x] Correct screen/recovery size
